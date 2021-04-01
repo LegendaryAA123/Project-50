@@ -1,0 +1,21 @@
+.header{
+    color:aquamarine;
+    background-color: coral;
+    text-align: center;
+    font-family: fantasy;
+}
+
+.animals{
+    border-radius: 20px;
+    background-color: chartreuse;
+    width: 310px;
+    font-family: fantasy;
+}
+
+.grid{
+    border: 2px solid black;
+    border-radius: 50px;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
